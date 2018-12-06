@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Users</string>
+    <string name="First_Name">First_Name</string>
+    <string name="Middle_Name">Middle_Name</string>
+    <string name="Last_Name">Last_Name</string>
+    <string name="Next">Next</string>
+    <string name="User_Form">User_Form</string>
+    <string name="USER_INFORMATION">User_Information</string>
+
+
+</resources>
